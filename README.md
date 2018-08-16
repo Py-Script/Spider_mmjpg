@@ -1,20 +1,26 @@
 # CX_spiders
+## 运行环境
+```
+Python3 Windows10
+```
+# 妹子图爬虫
 
-## 1.妹子图爬虫
-
-运行
+## 运行
 
 ```
-python mmjpg_spider.py
+python3 mmjpg_spider.py
 ```
+## 依赖
+```
+pip3 install -r requirements.txt
+```
+`ChromeWebDriver`自行百度下载
 输入你要爬到多少页 回车
 
-缺什么模块就pip安装一下
-
-## 2.电影天堂爬虫
+# 电影天堂爬虫
 
 运行
 
 ```
-python movie_spider.py
+python3 movie_spider.py
 ```
